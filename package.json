@@ -1,0 +1,31 @@
+{
+  "name": "antiuserbotbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youtwitfacetg/antiuserbotbot.git"
+  },
+  "author": "Twit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/youtwitfacetg/antiuserbotbot/issues"
+  },
+  "homepage": "https://github.com/youtwitfacetg/antiuserbotbot#readme",
+  "dependencies": {
+    "@youtwitface/text-to-html": "^1.1.2",
+    "nedb": "^1.8.0",
+    "new-i18n": "^1.1.1",
+    "telegraf": "^3.22.2",
+    "express": "^4.17.1",
+    "http": "^0.0.0",
+    "dotenv": "^8.1.0"
+  }
+}
