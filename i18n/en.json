@@ -1,0 +1,8 @@
+{
+    "start": "Hi, I can help you prevent spam attacks in your group. Just add me to your group with permission to ban and I will mute all new users until they prove their humanity. If you give also give me permission to delete messages, I can delete join messages after the user is unmuted.\n\nThe bot is open sourced and can be found [here](https://github.com/Daksh777/antiuserbot)",
+    "not_admin": "Hi [{{first_name}}](tg://user?id={{user_id}}). Thanks for adding me but you don't seem to be admin here so I will have to leave. Ask an admin to add me here :)",
+    "welcome": "Hi {{first_name}}, welcome to {{title}}! For the safety of this chat, please confirm your humanity by clicking the button below this message.",
+    "user_must_click": "This button is not for you. #GetRekt",
+    "creator": "Why would you leave if you're the creator?",
+    "not_a_bot": "I'm not a bot"
+}
