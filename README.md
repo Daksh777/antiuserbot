@@ -1,6 +1,6 @@
 # Antiuserbot
 
-A Telegram bot to block userbots from your group (forked from [YouTwitFace](https://github.com/AndrewLaneX/AntiUserbotBot))
+A Telegram bot to block userbots from your group (forked from [YouTwitFace](https://github.com/AndrewLaneX/AntiUserbotBot)).
 A working of the bot can be found in [@retromusicapp](https://t.me/retromusicapp)
 
 # Features
